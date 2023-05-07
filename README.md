@@ -7,3 +7,4 @@ A webhely front-end kódja nyílt forráskódú, szívesen segítünk a fordít�
 * [front-end kód](https://github.com/xxai-art/web)
 * [Nyelvi csomagok a webhely egészéhez](https://github.com/xxai-art/web/tree/main/i18n)
 * [Nyelvi csomagok a bejelentkezési modulokhoz](https://github.com/wacpkg/user/tree/main/ui.i18n)
+* [Weboldal többnyelvű dokumentációja](https://github.com/xxai-doc)
