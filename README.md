@@ -17,14 +17,14 @@ A front-end programozási nyelv a [@w5/coffee_plus](http://npmjs.com/@w5/coffee_
 
 Építsen a következő 3 projektre
 
-### [@w5/mdt](https://www.npmjs.com/package/@w5/mdt)
+* [@w5/mdt](https://www.npmjs.com/package/@w5/mdt)
 
-Az `.mdt` utótaggal rendelkező leírósablon `<+ ./coffee_plus/import.js>` hasonló szintaxisú külső fájlokra hivatkozhat.
+  Az utótag `.mdt` , a `<+ ./coffee_plus/import.js>` hasonló szintaxist használhatja külső fájlok hivatkozására, és leértékelést generálhat az `.md` utótaggal.
 
-[@w5/trmd](https://www.npmjs.com/package/@w5/trmd)
+* [@w5/trmd](https://www.npmjs.com/package/@w5/trmd)
 
-A Markdown fordítás nem fordítja le a kódokat és a hivatkozásokat, és a lefordított mondatokat gyorsítótárba helyezi. Ha a fordítást módosítják, de az eredeti szöveget nem módosítják, az újbóli végrehajtás nem írja felül a fordítás módosítását.
+  A Markdown fordítás nem fordítja le a kódokat és a hivatkozásokat, és a lefordított mondatokat gyorsítótárba helyezi. Ha a fordítást módosítják, de az eredeti szöveget nem módosítják, az újbóli végrehajtás nem írja felül a fordítás módosítását.
 
-[@w5/i18n](https://www.npmjs.com/package/@w5/i18n)
+* [@w5/i18n](https://www.npmjs.com/package/@w5/i18n)
 
-Nyelvi fájlok `yaml` által generált webhelyek fordításához.
+  Nyelvi fájlok `yaml` által generált webhelyek fordításához.
