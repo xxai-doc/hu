@@ -2,13 +2,13 @@
 
 [@w5/coffee_plus](http://npmjs.com/@w5/coffee_plus) , adjon hozzá néhány funkciót a coffeescript szintaxis alapján, lásd [a coffee_plus oldalt](./coffee_plus.md) .
 
-* változót deklarálni
+## változót deklarálni
 
 ```
 + var1, var2
 ```
 
-* nyilatkozat címke
+## nyilatkozat címke
 
 `:$` a [svelte](https://svelte.dev/docs#component-format-script-3-$-marks-a-statement-as-reactive) -vel használható.
 
@@ -90,7 +90,7 @@ $ : (func = function() {
 });
 ```
 
-* gyors import
+## gyors import
 
 ```
 > zx/globals:
